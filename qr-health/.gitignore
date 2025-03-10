@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+
+# Database
+health_data.db
+
+# Static files (generated)
+static/qr_codes/
+
+# Environment
+.env
