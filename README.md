@@ -60,3 +60,11 @@ cd emergency-health-card`
   - Solution: Designed a public /user/<user_id> route that serves data without authentication, while keeping edit functionality behind login.
 Capture screenshots of your dashboard and QR code page, upload them to your GitHub repository under the assets folder, and update the image paths in the README.
 If you’ve deployed the app (e.g., via ngrok or a hosting service), you can add a "Live Demo" link under a new ## Live Demo section.
+
+## Screenshots
+<div align="center">
+<img src="https://github.com/user-attachments/assets/d0b50a20-ac20-47d3-8160-8b9e059488cc" alt="Home Page" width="1000"/>
+<img src="https://github.com/user-attachments/assets/7046b017-cd7b-4e77-b1ac-80fd06c73e79" alt="Home Page" width="1000"/>
+<img src="https://github.com/user-attachments/assets/782bb1d2-99ea-415c-8626-53e6da3dbbf5" alt="Home Page" width="1000"/>
+<img src="https://github.com/user-attachments/assets/804d311a-b94b-47ae-981a-1b69b1aa5c30" alt="Home Page" width="1000"/>
+<img src="https://github.com/user-attachments/assets/41113a24-443a-448e-8b72-f7b44c0357bd" alt="Home Page" width="1000"/>
